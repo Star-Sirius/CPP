@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/myImage">
+        <file>images/bird.png</file>
+        <file>images/barrier.png</file>
+        <file>images/sky.png</file>
+        <file>images/title.png</file>
+        <file>images/bird2.ico</file>
+    </qresource>
+</RCC>
